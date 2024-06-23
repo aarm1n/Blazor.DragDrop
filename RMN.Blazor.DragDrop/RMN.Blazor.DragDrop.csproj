@@ -7,9 +7,9 @@
     <PackageId>RMN.Blazor.DragDrop</PackageId>
     <Title>RMN.Blazor.DragDrop</Title>
     <Description>Simple drag and drop component for Blazor.</Description>
-    <Version>1.2.0</Version>
-    <AssemblyVersion>1.2.0.0</AssemblyVersion>
-    <FileVersion>1.2.0.0</FileVersion>
+    <Version>1.2.1</Version>
+    <AssemblyVersion>1.2.1.0</AssemblyVersion>
+    <FileVersion>1.2.1.0</FileVersion>
     <Authors>aarm1n</Authors>
     <PackageIcon>icon-blazor.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
